@@ -5,7 +5,7 @@ Revlin John
 
 What follows is an incomplete listing of his works:
 
-### Maponics
+### Maponics ![Maponics](images/maponics.png)
 [www.maponics.com](http://www.maponics.com/)
 
 ### PixOasis
