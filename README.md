@@ -8,13 +8,13 @@ What follows is an incomplete listing of his works:
 ### Maponics ![Maponics](images/maponics.png)
 [www.maponics.com](http://www.maponics.com/)
 
-### PixOasis
+### PixOasis ![PixOasis](images/pixoasis.png)
 [beta.pixoasis.com](https://beta.pixoasis.com/)
 
-### MingShine
+### MingShine ![MingShine](images/mingshine.png)
 [mingshine.com](http://mingshine.com/new_car_protection.html)
 
-### Vanprint 
+### Vanprint ![Vanprint](images/vanprint.png)
 [www.vanprint.com](http://www.vanprint.com/store/shop/business-card-custom/)
 
 ### JavaScript Demos
