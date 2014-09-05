@@ -1,4 +1,4 @@
-Revlin John
+{{developer}}
 ======
 
 ...codes professionally and personally for the World Wide Web and its associated technologies. His skills range from scripting simple utilities to crafting fully scalable applications to spec, appropriate to a variety of client/server configurations. The toolbox from which he regularly pulls includes JavaScript, HTML5, SVG, Perl, audio and video streaming.
