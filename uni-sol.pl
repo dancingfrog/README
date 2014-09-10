@@ -3,7 +3,9 @@ use Mojo::Log;
 
 get '/revlin' => sub {
 	my $self = shift;
+	#getReadme($self, 'revlin/README.md');
 	getSVGReadme($self, 'revlin/README.md');
+	
 };
 
 1;
