@@ -6,7 +6,7 @@
 What follows is an incomplete listing of his works:
 
 ### Maponics ![Maponics](images/maponics.png)
-[www.maponics.com](https://reveal.maponics.com/tutorial/)
+[reveal.maponics.com](https://reveal.maponics.com/tutorial/)
 
 ### PixOasis ![PixOasis](images/pixoasis.png)
 [beta.pixoasis.com](https://beta.pixoasis.com/)
