@@ -9,7 +9,7 @@ What follows is an incomplete listing of his works:
 [reveal.maponics.com](https://reveal.maponics.com/tutorial/)
 
 ### PixOasis ![PixOasis](images/pixoasis.png)
-[beta.pixoasis.com](https://beta.pixoasis.com/)
+[www.pixoasis.com](https://www.pixoasis.com/)
 
 ### MingShine ![MingShine](images/mingshine.png)
 [mingshine.com](http://mingshine.com/new_car_protection.html)
