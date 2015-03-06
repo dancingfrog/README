@@ -2,16 +2,26 @@
 use Mojo::Log;
 
 get '/dev' => sub {
+	no strict;
+	
 	my $self = shift;
-	#getReadme($self, 'revlin/README.md');
-	getSVGReadme($self, 'revlin/README.md');
+	unless( defined &getSVGReadme ) {
+		getReadme($self, 'revlin/README.md');
+	} else {
+		getSVGReadme($self, 'revlin/README.md')
+	}
 	
 };
 
 get '/revlin' => sub {
+	no strict;
+	
 	my $self = shift;
-	#getReadme($self, 'revlin/README.md');
-	getSVGReadme($self, 'revlin/README.md');
+	unless( defined &getSVGReadme ) {
+		getReadme($self, 'revlin/README.md');
+	} else {
+		getSVGReadme($self, 'revlin/README.md')
+	}
 	
 };
 
