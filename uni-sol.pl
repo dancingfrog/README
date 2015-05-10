@@ -6,9 +6,9 @@ get '/dev' => sub {
 	
 	my $self = shift;
 	unless( defined &getSVGReadme ) {
-		getReadme($self, 'revlin/index.md');
+		getReadme($self, 'revlin/README.md');
 	} else {
-		getSVGReadme($self, 'revlin/index.md')
+		getSVGReadme($self, 'revlin/README.md')
 	}
 	
 };
@@ -18,9 +18,9 @@ get '/revlin' => sub {
 	
 	my $self = shift;
 	unless( defined &getSVGReadme ) {
-		getReadme($self, 'revlin/index.md');
+		getReadme($self, 'revlin/README.md');
 	} else {
-		getSVGReadme($self, 'revlin/index.md')
+		getSVGReadme($self, 'revlin/README.md')
 	}
 	
 };
