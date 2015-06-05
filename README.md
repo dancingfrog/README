@@ -5,6 +5,12 @@
 
 What follows is an incomplete listing of his works:
 
+### JavaScript Demos
+[www.uni-sol.org/js-demos](http://uni-sol.org/js-demos)
+
+### SVG (+Perl) Demos
+[www.uni-sol.org/svg-demos](http://uni-sol.org/svg-demos)
+
 ### Maponics ![Maponics](images/maponics.png)
 [reveal.maponics.com](http://reveal.maponics.com/tutorial)
 
@@ -16,9 +22,3 @@ What follows is an incomplete listing of his works:
 
 ### Vanprint ![Vanprint](images/vanprint.png)
 [www.vanprint.com](http://www.vanprint.com/store/shop/business-card-custom)
-
-### JavaScript Demos
-[www.uni-sol.org/js-demos](http://uni-sol.org/js-demos)
-
-### SVG (+Perl) Demos
-[www.uni-sol.org/svg-demos](http://uni-sol.org/svg-demos)
