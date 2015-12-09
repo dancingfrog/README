@@ -7,6 +7,9 @@ What follows is an incomplete listing of his works:
 
 ### Maponics ![Maponics](images/maponics.png)
 [reveal.maponics.com](http://reveal.maponics.com/tutorial)
+* Created graphical, interactive demo of various GIS-based data products
+* Front-end utilized MVC, mobile and map-based frameworks/APIs
+* Back-end implemented in Perl to access PostgreSQL database, allowing integration with the analytic and demographic data specific to each product
 
 ### PixOasis ![PixOasis](images/pixoasis.png)
 [www.pixoasis.com](https://www.pixoasis.com/)
