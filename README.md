@@ -17,7 +17,7 @@ What follows is an incomplete listing of his works:
 ### Vanprint ![Vanprint](images/vanprint.png)
 [www.vanprint.com](http://www.vanprint.com/store/shop/business-card-custom)
 * Created back-end for web-to-print app, allowing users to upload images and enter text which is compiled into a final pdf document
-* Back-end consisted collection of Perl modules used to receive and process the user content into a printable PDF document
+* Back-end consisted of collection of Perl modules used to receive and process the user content into a printable PDF document and store data in MySQL
 * Utilized SVG to create templates for various document styles (i.e. business cards, letter heads, etc.)
 
 ### JavaScript Demos
