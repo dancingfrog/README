@@ -5,12 +5,6 @@ John Hall
 
 What follows is an incomplete listing of his works:
 
-### JavaScript Demos
-[www.uni-sol.org/js-demos](http://uni-sol.org/js-demos)
-
-### SVG (+Perl) Demos
-[www.uni-sol.org/svg-demos](http://uni-sol.org/svg-demos)
-
 ### Maponics ![Maponics](images/maponics.png)
 [reveal.maponics.com](http://reveal.maponics.com/tutorial)
 
@@ -22,3 +16,12 @@ What follows is an incomplete listing of his works:
 
 ### Vanprint ![Vanprint](images/vanprint.png)
 [www.vanprint.com](http://www.vanprint.com/store/shop/business-card-custom)
+* Created back-end for web-to-print app, allowing users to upload images and enter text which is compiled into a final pdf document
+* Back-end consisted collection of Perl modules used to receive and process the user content into a printable PDF document
+* Utilized SVG to create templates for various document styles (i.e. business cards, letter heads, etc.)
+
+### JavaScript Demos
+[www.uni-sol.org/js-demos](http://uni-sol.org/js-demos)
+
+### SVG (+Perl) Demos
+[www.uni-sol.org/svg-demos](http://uni-sol.org/svg-demos)
