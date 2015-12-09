@@ -10,8 +10,8 @@ What follows is an incomplete listing of his works:
 
 ### PixOasis ![PixOasis](images/pixoasis.png)
 [www.pixoasis.com](https://www.pixoasis.com/)
-* Implemented conversion of site and integrated sevices to new design
-* Recieved new design in the form of layered PSD files
+* Implemented conversion of site and integrated services to new design
+* Received new design in the form of layered PSD files
 * Retained or re-implemented all of the functionality of the previous site (offering photo delivery and archival services)
 * Completely responsible for programming and testing this site, ensuring cross-browser compatibility
 
