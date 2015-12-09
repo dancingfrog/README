@@ -8,7 +8,7 @@ What follows is an incomplete listing of his works:
 ### Maponics© ![Maponics](images/feedback.png)
 #### Feedback App 
 * Created graphical, interactive application allowing existing customers to provide feedback 
-* Controled the flow of user-generated feedback, specific to a given GIS boundary/data product
+* App managed the flow of user-generated feedback, specific to a given GIS boundary/data product
 * Front-end utilized MVC, mobile and map-based frameworks/APIs (AngularJS, Leaflet, MapBox)
 * Back-end implemented in Node.js to access PostgreSQL database
 
