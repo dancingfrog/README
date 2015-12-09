@@ -13,6 +13,9 @@ What follows is an incomplete listing of his works:
 
 ### MingShine ![MingShine](images/mingshine.png)
 [mingshine.com](http://mingshine.com/new_car_protection.html)
+* Responsive design site implemented in HTML, CSS and jQuery
+* Received the final comps from the designer as layered PSD files
+* Completely responsible for programming and testing this site, ensuring cross-browser compatibility
 
 ### Vanprint ![Vanprint](images/vanprint.png)
 [www.vanprint.com](http://www.vanprint.com/store/shop/business-card-custom)
