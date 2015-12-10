@@ -6,15 +6,14 @@ John Hall
 What follows is an incomplete listing of his works:
 
 ### Maponics© ![Maponics](images/feedback.png)
-#### Feedback App 
+[feedback.maponics.com](http://feedback.maponics.com/) | Feedback App 
 * Created graphical, interactive application allowing existing customers to provide feedback 
 * App managed the flow of user-generated feedback, specific to a given GIS boundary/data product
 * Front-end utilized MVC, mobile and map-based frameworks/APIs (AngularJS, Leaflet, MapBox)
 * Back-end implemented in Node.js to access PostgreSQL database
 
 ### Maponics© ![Maponics](images/maponics.png)
-####  Reveal Demo
-[reveal.maponics.com](http://reveal.maponics.com/tutorial)
+[reveal.maponics.com](http://reveal.maponics.com/tutorial) | Reveal Demo
 * Created graphical, interactive demo of various GIS-based data products
 * Front-end utilized MVC, mobile and map-based frameworks/APIs (jQuery Mobile, Giscloud)
 * Back-end implemented in Perl to access PostgreSQL database, allowing integration with the analytic and demographic data specific to each product
