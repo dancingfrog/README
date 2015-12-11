@@ -12,6 +12,9 @@ What follows is an incomplete listing of his works:
 * Front-end utilized MVC, mobile and map-based frameworks/APIs (AngularJS, Leaflet, MapBox)
 * Back-end implemented in Node.js to access PostgreSQL database
 
+### JavaScript Demos ![js-demos](images/js-demos.png)
+#### [www.uni-sol.org/js-demos](http://uni-sol.org/js-demos)
+
 ### Maponics© ![Maponics](images/maponics.png)
 #### Reveal Demo | [reveal.maponics.com](http://reveal.maponics.com/tutorial)
 * Created graphical, interactive demo of various GIS-based data products
@@ -36,9 +39,3 @@ What follows is an incomplete listing of his works:
 * Created back-end for web-to-print app, allowing users to upload images and enter text which is compiled into a final pdf document
 * Back-end consisted of collection of Perl modules used to receive and process the user content into a printable PDF document and store data in MySQL
 * Utilized SVG to create templates for various document styles (i.e. business cards, letter heads, etc.)
-
-### JavaScript Demos
-#### [www.uni-sol.org/js-demos](http://uni-sol.org/js-demos)
-
-### SVG (+Perl) Demos
-#### [www.uni-sol.org/svg-demos](http://uni-sol.org/svg-demos)
