@@ -3,7 +3,7 @@ John Hall
 
 ...codes professionally and personally for the World Wide Web and its associated technologies. His skills range from scripting simple utilities to crafting fully scalable applications to spec, appropriate to a variety of client/server configurations. The toolbox from which he regularly pulls includes JavaScript, HTML5, SVG, Perl, audio and video streaming.
 
-What follows is an incomplete listing of his works:
+In addition to his professional activities, John contributes code to the Open Source community on GitHub [(github.com/dancingfrog)](https://github.com/dancingfrog) and occassionaly masquerades as Revlin John, his eclectic alter-ego [(github.com/revlin)](https://github.com/revlin). What follows is a brief synopsis of his works**:
 
 ### Maponics© ![Maponics](images/feedback.png)
 #### Feedback App | [feedback.maponics.com](http://feedback.maponics.com/)
@@ -12,7 +12,7 @@ What follows is an incomplete listing of his works:
 * Front-end utilized MVC, mobile and map-based frameworks/APIs (AngularJS, Leaflet, MapBox)
 * Back-end implemented in Node.js to access PostgreSQL database
 
-### JavaScript Demos ![js-demos](images/js-demos.png)
+### JS Demos ![js-demos](images/js-demos.png)
 #### [www.uni-sol.org/js-demos](http://uni-sol.org/js-demos)
 
 ### Maponics© ![Maponics](images/maponics.png)
@@ -39,3 +39,5 @@ What follows is an incomplete listing of his works:
 * Created back-end for web-to-print app, allowing users to upload images and enter text which is compiled into a final pdf document
 * Back-end consisted of collection of Perl modules used to receive and process the user content into a printable PDF document and store data in MySQL
 * Utilized SVG to create templates for various document styles (i.e. business cards, letter heads, etc.)
+
+*Please contact John for demonstrations or direct links to production resources that are not currently available for public release*
