@@ -3,7 +3,7 @@ John Hall
 
 ...codes professionally and personally for the World Wide Web and its associated technologies. His skills range from scripting simple utilities to crafting fully scalable applications to spec, appropriate to a variety of client/server configurations. The toolbox from which he regularly pulls includes JavaScript, HTML5, SVG, Perl, audio and video streaming.
 
-In addition to his professional activities, John contributes code to the Open Source community on GitHub [(github.com/dancingfrog)](https://github.com/dancingfrog) and occassionaly masquerades as Revlin John, his eclectic alter-ego [(github.com/revlin)](https://github.com/revlin). What follows is a brief synopsis of his works**:
+In addition to his professional activities, John contributes code to the Open Source community on GitHub [(github.com/dancingfrog)](https://github.com/dancingfrog) and occassionaly masquerades as Revlin John, his eclectic alter-ego [(github.com/revlin)](https://github.com/revlin). What follows is a brief synopsis of his works &ast;:
 
 ### JS Demos ![js-demos](images/js-demos.png)
 #### [www.uni-sol.org/js-demos](http://uni-sol.org/js-demos)
@@ -40,4 +40,4 @@ In addition to his professional activities, John contributes code to the Open So
 * Back-end consisted of collection of Perl modules used to receive and process the user content into a printable PDF document and store data in MySQL
 * Utilized SVG to create templates for various document styles (i.e. business cards, letter heads, etc.)
 
-*Please contact John for demonstrations or direct links to production resources that are not currently available for public release*
+&ast; *Please contact John for demonstrations or direct links to production resources that are not currently available for public release*
