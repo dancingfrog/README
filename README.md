@@ -29,7 +29,7 @@ In addition to his professional activities, John contributes code to the Open So
 * Completely responsible for programming and testing this site, ensuring cross-browser compatibilityfor programming and testing this site, ensuring cross-browser compatibility
 
 ### Tangible ![Tangible](images/tangible.png)
-#### [tangiblecorp.herokuapp.com](https://232323:232323@tangiblecorp.herokuapp.com/product/)
+#### [tangiblecorp.herokuapp.com](/tangible.html)
 * Converted site theme to AngularJS controllers and templates
 * Integrated UI Bootstrap module with Carousel (slides) and Modals
 * Received design updates in the form of layered PSD files
