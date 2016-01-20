@@ -6,7 +6,7 @@ John Hall
 In addition to his professional activities, John contributes code to the Open Source community on GitHub [(github.com/dancingfrog)](https://github.com/dancingfrog) and occassionaly masquerades as Revlin John, his eclectic alter-ego [(github.com/revlin)](https://github.com/revlin). What follows is a brief synopsis of his works &ast;:
 
 ### JS Demos ![js-demos](images/js-demos.png)
-#### [www.uni-sol.org/js-demos](http://uni-sol.org/js-demos)
+#### [js-demos](/js-demos)
 
 ### Maponics© ![Maponics](images/feedback.png)
 #### Feedback App | [feedback.maponics.com](http://feedback.maponics.com/)
@@ -26,7 +26,7 @@ In addition to his professional activities, John contributes code to the Open So
 * Implemented conversion of site and integrated services to new design
 * Received new design in the form of layered PSD files
 * Retained or re-implemented all of the functionality of the previous site (offering photo delivery and archival services)
-* Completely responsible for programming and testing this site, ensuring cross-browser compatibilityfor programming and testing this site, ensuring cross-browser compatibility
+* Completely responsible for programming and testing this site, ensuring cross-browser compatibility
 
 ### Tangible ![Tangible](images/tangible.png)
 #### [tangiblecorp.herokuapp.com](/tangible.html)
