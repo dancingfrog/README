@@ -5,21 +5,30 @@ John Hall
 
 In addition to his professional activities, John contributes code to the Open Source community on GitHub [(github.com/dancingfrog)](https://github.com/dancingfrog) and occassionaly masquerades as Revlin John, his eclectic alter-ego [(github.com/revlin)](https://github.com/revlin). What follows is a brief synopsis of his works &ast;:
 
-### JS Demos ![js-demos](images/js-demos.png)
-#### [js-demos](/js-demos)
+### Pitney Bowes ![Horizon © Pitney Bowes 2016](images/horizon.png)
+#### Horizon App | [horizon.maponics.com](https://horizon.maponics.com/)
+* Created graphical, interactive application allowing interaction and search on a full spectrum GIS boundary & centroid data products
+* Front-end utilized MVC, mobile and map-based frameworks (AngularJS, Leaflet, MapBox, Material Design)
+* Back-end implemented in Node.js and allowed complete integration with our REST API's, providing location, mapping and analytic services
 
-### Maponics© ![Maponics](images/feedback.png)
+Copyright © Pitney Bowes 2016
+
+### Maponics ![Feedback © Maponics 2015](images/feedback.png)
 #### Feedback App | [feedback.maponics.com](http://feedback.maponics.com/)
 * Created graphical, interactive application allowing existing customers to provide feedback 
 * App managed the flow of user-generated feedback, specific to a given GIS boundary/data product
-* Front-end utilized MVC, mobile and map-based frameworks/APIs (AngularJS, Leaflet, MapBox)
+* Front-end utilized MVC, mobile and map-based frameworks (AngularJS, Leaflet, MapBox)
 * Back-end implemented in Node.js to access PostgreSQL database
 
-### Maponics© ![Maponics](images/maponics.png)
-#### Reveal Demo | [reveal.maponics.com](http://reveal.maponics.com/tutorial)
+Copyright © Maponics 2015
+
+### Maponics ![Reveal © Maponics 2013](images/maponics.png)
+#### Reveal Demo | [reveal.maponics.com](https://reveal.maponics.com/)
 * Created graphical, interactive demo of various GIS-based data products
 * Front-end utilized MVC, mobile and map-based frameworks/APIs (jQuery Mobile, Giscloud)
 * Back-end implemented in Perl to access PostgreSQL database, allowing integration with the analytic and demographic data specific to each product
+
+Copyright © Maponics 2013
 
 ### PixOasis ![PixOasis](images/pixoasis.png)
 #### [www.pixoasis.com](https://www.pixoasis.com/)
@@ -27,6 +36,8 @@ In addition to his professional activities, John contributes code to the Open So
 * Received new design in the form of layered PSD files
 * Retained or re-implemented all of the functionality of the previous site (offering photo delivery and archival services)
 * Completely responsible for programming and testing this site, ensuring cross-browser compatibility
+
+Copyright © PixOasis 2013
 
 ### Tangible ![Tangible](images/tangible.png)
 #### [tangiblecorp.herokuapp.com](/tangible.html)
@@ -40,4 +51,7 @@ In addition to his professional activities, John contributes code to the Open So
 * Back-end consisted of collection of Perl modules used to receive and process the user content into a printable PDF document and store data in MySQL
 * Utilized SVG to create templates for various document styles (i.e. business cards, letter heads, etc.)
 
-&ast; *Please contact John for demonstrations or direct links to production resources that are not currently available for public release*
+### JS Demos ![js-demos](images/js-demos.png)
+#### [js-demos](/js-demos)
+
+&ast; *Please contact John for demonstrations of production resources that are not currently available for public release*
