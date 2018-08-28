@@ -52,6 +52,6 @@ Copyright © PixOasis 2013
 * Utilized SVG to create templates for various document styles (i.e. business cards, letter heads, etc.)
 
 ### JS Demos ![js-demos](images/js-demos.png)
-#### [js-demos](/js-demos)
+#### [js-demos](/js-demos/README.html)
 
 &ast; *Please contact John for demonstrations of production resources that are not currently available for public release*
