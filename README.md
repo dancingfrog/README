@@ -54,44 +54,11 @@ Copyright © PixOasis 2013
 ### JS Demos ![js-demos](images/js-demos.png)
 #### [js-demos](/js-demos)
 
-&ast; *Please contact John for demonstrations of production resources that are not currently available for public release*
-
-<h1 id="text_title">Fathers</h1>
-<p id="text_copy" style="display:none;">
-
-    Don't Give Up
-
-    On Yourself
-
-    On Your Dreams
-
-    This is the moment
-
-    Your power has never been greater
-
-    Your priviledge has never stood higher
-
-    Your influence is without measure
-
-    Only your fear
-
-    Only your lost spirit
-
-    Can keep you from the promised land
-
-    The land of your ancestors
-
-    The land of your children
-
-    Where you would join them
-
-    If you would lead and follow
-
-    As your heart demands
-</p>
+<h1 id="text_title"></h1>
+<p id="text_copy" style="display:none;"></p>
 
 <div id="stream" style="display:none; text-align:center">
-  <video id="aud1" preload="auto"  controls="true">
+  <video id="aud1" preload="auto" muted ="true" controls="true">
     <source src="https://s3-us-west-1.amazonaws.com/real-currents/js-demos/video/fathers.mp4" />
     <source src="https://s3-us-west-1.amazonaws.com/real-currents/js-demos/video/fathers.ogv" />
   </video>
