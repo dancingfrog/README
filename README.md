@@ -3,15 +3,20 @@ John Hall
 
 ...codes professionally and personally for the World Wide Web and its associated technologies. His skills range from scripting simple utilities to crafting fully scalable applications to spec, appropriate to a variety of client/server configurations. The toolbox from which he regularly pulls includes JavaScript, HTML5, SVG, Perl, audio and video streaming.
 
-In addition to his professional activities, John contributes code to the Open Source community on GitHub [(github.com/dancingfrog)](https://github.com/dancingfrog) and occassionaly masquerades as Revlin John, his eclectic alter-ego [(github.com/revlin)](https://github.com/revlin). What follows is a brief synopsis of his works &ast;:
+What follows is a brief synopsis of his works [&ast;](#details):
 
-### Pitney Bowes ![Horizon © Pitney Bowes 2016](images/horizon.png)
-#### Horizon App | [horizon.maponics.com](https://horizon.maponics.com/)
+### Maponics / Pitney Bowes ![Horizon © Pitney Bowes 2016](images/horizon.png)
+#### Horizon (=> *Visualization* in Software & Data Marketplace) | [horizon.maponics.com](https://pbs-access.pitneybowes.com/#!/home%2Fvisualise?v=10,-122.41942,37.77493)
+Horizon (Original App) | [sandbox.maponics.com](https://sandbox.maponics.com)
 * Created graphical, interactive application allowing interaction and search on a full spectrum GIS boundary & centroid data products
 * Front-end utilized MVC, mobile and map-based frameworks (AngularJS, Leaflet, MapBox, Material Design)
-* Back-end implemented in Node.js and allowed complete integration with our REST API's, providing location, mapping and analytic services
+* Back-end implemented in Node.js and allowed complete integration with our REST API's, providing location, mapping and analytic services 
+#### MX Design (Horizon Template) | [maponics-design](libs/maponics-design/mx-index.html)
+Web GUI Template ([white paper](https://docs.google.com/document/d/1Qa4i7o0Wknp0jDB1J26-sAnvvFaccz4E2esRXB8a1U0/edit?usp=sharing))
+* Created the component-based Maponics Design template in AngularJS
+* Wrote technical paper advising for the creation of a re-usable [Web GUI template](https://docs.google.com/document/d/1Qa4i7o0Wknp0jDB1J26-sAnvvFaccz4E2esRXB8a1U0/edit?usp=sharing)
 
-Copyright © Pitney Bowes 2016
+Copyright © Maponcis 2016, © Pitney Bowes 2017
 
 ### Maponics ![Feedback © Maponics 2015](images/feedback.png)
 #### Feedback App | [feedback.maponics.com](http://feedback.maponics.com/)
@@ -45,13 +50,9 @@ Copyright © PixOasis 2013
 * Integrated UI Bootstrap module with Carousel (slides) and Modals
 * Received design updates in the form of layered PSD files
 
-### Vanprint ![Vanprint](images/vanprint.png)
-#### [www.vanprint.com](http://www.vanprint.com/store/shop/business-card-custom)
-* Created back-end for web-to-print app, allowing users to upload images and enter text which is compiled into a final pdf document
-* Back-end consisted of collection of Perl modules used to receive and process the user content into a printable PDF document and store data in MySQL
-* Utilized SVG to create templates for various document styles (i.e. business cards, letter heads, etc.)
 
 ### JS Demos ![js-demos](images/js-demos.png)
 #### [js-demos](/js-demos/README.html)
 
-&ast; *Please contact John for demonstrations of production resources that are not currently available for public release*
+
+<span id="details">&ast;</span> *Please contact John for demos and details: [john@real-currents.com](mailto:john@real-currents.com)*
