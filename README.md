@@ -7,12 +7,12 @@ What follows is a brief synopsis of his works [&ast;](#details):
 
 ### Maponics /<br /> Pitney Bowes ![Horizon © Pitney Bowes 2016](images/horizon.png)
 #### Horizon (=> *Visualization* in Software & Data Marketplace) | [horizon.maponics.com](https://pbs-access.pitneybowes.com/#!/home%2Fvisualise?v=10,-122.41942,37.77493)
-Horizon (Original App) | [sandbox.maponics.com](https://sandbox.maponics.com)
+* Horizon (Original App) | [sandbox.maponics.com](https://sandbox.maponics.com)
 * Created graphical, interactive application allowing interaction and search on a full spectrum GIS boundary & centroid data products
 * Front-end utilized MVC, mobile and map-based frameworks (AngularJS, Leaflet, MapBox, Material Design)
 * Back-end implemented in Node.js and allowed complete integration with our REST API's, providing location, mapping and analytic services 
 #### MX Design (Horizon Template) | [maponics-design](libs/maponics-design/mx-index.html)
-Web GUI Template ([white paper](https://docs.google.com/document/d/1Qa4i7o0Wknp0jDB1J26-sAnvvFaccz4E2esRXB8a1U0/edit?usp=sharing))
+* Web GUI Template ([white paper](https://docs.google.com/document/d/1Qa4i7o0Wknp0jDB1J26-sAnvvFaccz4E2esRXB8a1U0/edit?usp=sharing))
 * Created the component-based Maponics Design template in AngularJS
 * Wrote technical paper advising for the creation of a re-usable [Web GUI template](https://docs.google.com/document/d/1Qa4i7o0Wknp0jDB1J26-sAnvvFaccz4E2esRXB8a1U0/edit?usp=sharing)
 
