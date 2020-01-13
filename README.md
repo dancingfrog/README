@@ -5,7 +5,7 @@ John Hall
 
 What follows is a brief synopsis of his works [&ast;](#details):
 
-### Maponics / Pitney Bowes ![Horizon © Pitney Bowes 2016](images/horizon.png)
+### Maponics /<br /> Pitney Bowes ![Horizon © Pitney Bowes 2016](images/horizon.png)
 #### Horizon (=> *Visualization* in Software & Data Marketplace) | [horizon.maponics.com](https://pbs-access.pitneybowes.com/#!/home%2Fvisualise?v=10,-122.41942,37.77493)
 Horizon (Original App) | [sandbox.maponics.com](https://sandbox.maponics.com)
 * Created graphical, interactive application allowing interaction and search on a full spectrum GIS boundary & centroid data products
