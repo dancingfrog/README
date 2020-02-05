@@ -54,26 +54,20 @@ Copyright © PixOasis 2013
 ### JS Demos ![js-demos](images/js-demos.png)
 #### [js-demos](/js-demos/README.html)
 
-<script type="text/javascript" id="cvSrc" src="/js-demos/scripts/interact-visualizer.js"></script>
 
-<h1 id="text_title" style="display:none;"></h1>
+        <div id="stream" style="display:none; text-align:center">
+		<video id="aud1" poster="/js-demos/images/fathers.jpg" preload="auto" muted="true" controls="true">
+			<source src="/js-demos/video/fathers.mp4" />
+			<source src="/js-demos/video/fathers.ogv" />
+		</video>
+	</div>
 
-<p id="text_copy" style="display:none;">
-</p>
+        <p id="vstatus"></p>
+	<p id="license" style="color:#fff; display:none;">
+		<img src="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png" alt="Creative Commons Licence"><br />
+		<em>These demos by <a href="mailto:john@real-currents.com">John</a> are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/nz/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 License, 2009-2012 </a></em>
+	</p>
 
-<p><span id="background01" style="display:none; color:hsla(53,8%,37%,0.005)"></span>
-<span id="background02" style="display:none; color:hsla(168,15%,65%,0.025)"></span>
-<span id="background03" style="display:none; color:hsla(0%,0%,0%,1.0)"></span></p>
-
-<p><span id="foreground01" style="display:none; color:rgb(255,255,255)"></span>
-<span id="foreground02" style="display:none; color:hsla(210, 100%, 70%, 1.0)"></span>
-<span id="foreground03" style="display:none; color:hsla(150, 100%, 70%, 1.0)"></span></p>
-
-<div id="stream" style="display:none; text-align:center">
-  <video id="aud1" preload="auto" muted="true" controls="true">
-    <source src="https://s3-us-west-1.amazonaws.com/real-currents/js-demos/video/the_word.mp4" />
-    <source src="https://s3-us-west-1.amazonaws.com/real-currents/js-demos/video/the_word.ogx" />
-  </video>
-</div>
+	<script type="text/javascript" id="cvSrc" src="/js-demos/scripts/inner-video-cube.js"></script>
 
 <span id="details">&ast;</span> *Please contact John for demos and details: [john@real-currents.com](mailto:john@real-currents.com)*
