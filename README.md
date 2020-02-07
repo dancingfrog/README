@@ -52,23 +52,7 @@ Copyright © PixOasis 2013
 
 
 ### JS Demos ![js-demos](images/js-demos.png)
-#### [js-demos](/js-demos/README.html)
+#### [js-demos](http://www.real-currents.com/js-demos/README.html)
 
-
-<div id="stream" style="display:none; text-align:center">
-<video id="aud1" poster="/js-demos/images/fathers.jpg" preload="auto" muted="true" controls="true">
-<source src="/js-demos/video/fathers.mp4" />
-<source src="/js-demos/video/fathers.ogv" />
-</video>
-</div>
-
-<p id="vstatus"></p>
-
-<p id="license" style="color:#fff; display:none;">
-<img src="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png" alt="Creative Commons Licence"><br />
-<em>These demos by <a href="mailto:john@real-currents.com">John</a> are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/nz/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 License, 2009-2012 </a></em>
-</p>
-
-<script type="text/javascript" id="cvSrc" src="/js-demos/scripts/inner-video-cube.js"></script>
 
 <span id="details">&ast;</span> *Please contact John for demos and details: [john@real-currents.com](mailto:john@real-currents.com)*
