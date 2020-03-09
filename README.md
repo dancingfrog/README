@@ -6,7 +6,7 @@ John Hall
 What follows is a brief synopsis of his works [&ast;](#details):
 
 
-### Pitney Bowes © 2020 ![SDP © Pitney Bowes 2020](images/sdp-downloads.png)
+### Pitney Bowes ![SDP © Pitney Bowes 2020](images/sdp-downloads.png)
 #### Smart Data Platform | [smartdata.pb.com](https://smartdata.pb.com)
 As a key member of the development team, John created web-based interfaces (both graphical and restful) for the Smart Data Platform (SDP) internal web portal.
 * Created tools to provide useful and accurate views on data resource usage, various product build life-cycles and the quality of results
@@ -15,7 +15,7 @@ As a key member of the development team, John created web-based interfaces (both
 
 
 ### Maponics /<br /> Pitney Bowes ![Horizon © Pitney Bowes 2016](images/horizon.png)
-#### Horizon (=> *Visualization* in Software & Data Marketplace) | [horizon.maponics.com](https://pbs-access.pitneybowes.com/#!/home%2Fvisualise?v=10,-122.41942,37.77493)
+#### Horizon (*Visualization* in Software & Data Marketplace) | [horizon.maponics.com](https://pbs-access.pitneybowes.com/#!/home%2Fvisualise?v=10,-122.41942,37.77493)
 * Horizon (Original App) | [sandbox.maponics.com](https://sandbox.maponics.com)
 * Created graphical, interactive application allowing interaction and search on a full spectrum GIS boundary & centroid data product
 * Front-end utilized MVC, mobile and map-based frameworks (AngularJS, Leaflet, MapBox, Material Design)
@@ -25,7 +25,9 @@ As a key member of the development team, John created web-based interfaces (both
 * Designed and implemented the component-based Maponics Design (mx-design) template in AngularJS
 * Wrote technical paper advising for the creation of a re-usable [Web GUI template](https://docs.google.com/document/d/1Qa4i7o0Wknp0jDB1J26-sAnvvFaccz4E2esRXB8a1U0/edit?usp=sharing)
 
-Copyright © Maponcis 2016, © Pitney Bowes 2017 ![Maponics Design](images/mx-design.png)
+ ![Maponics Design](images/mx-design.png)
+
+Copyright © Maponcis 2016, © Pitney Bowes 2017
 
 ### Maponics ![Feedback © Maponics 2015](images/feedback.png)
 #### Feedback App | [feedback.maponics.com](http://feedback.maponics.com/)
