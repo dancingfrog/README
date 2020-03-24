@@ -15,7 +15,6 @@ What follows is a brief synopsis of his works [&ast;](#details):
 
 ### Maponics /<br /> Pitney Bowes ![Horizon © Pitney Bowes 2016](images/horizon.png)
 #### Horizon (*Visualization* in Software & Data Marketplace) | [horizon.maponics.com](https://pbs-access.pitneybowes.com/#!/home%2Fvisualise?v=10,-122.41942,37.77493)
-* Horizon (Original App) | [sandbox.maponics.com](https://sandbox.maponics.com)
 * Created graphical, interactive application allowing interaction and search on a full spectrum GIS boundary & centroid data product
 * Front-end utilized MVC, mobile and map-based frameworks (AngularJS, Leaflet, MapBox, Material Design)
 * Back-end implemented in Node.js and allowed complete integration with our REST API's, providing location, mapping and analytic services
@@ -86,6 +85,6 @@ Copyright © PixOasis 2013
 <em>These demos by <a href="mailto:john@real-currents.com">John</a> are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/nz/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 License, 2009-2020 </a></em>
 </p>
 
-<script type="text/javascript" id="cvSrc" src="/js-demos/scripts/inner-video-cube.js"></script>
+<script type="text/javascript" id="cvSrc" src="/js-demos/scripts/interact-grid.js"></script>
 
 <span id="details">&ast;</span> *Please contact John for demos and details: [john@real-currents.com](mailto:john@real-currents.com)*
