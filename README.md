@@ -6,15 +6,15 @@ John Hall
 What follows is a brief synopsis of his works [&ast;](#details):
 
 
-### Pitney Bowes ![SDP © Pitney Bowes 2020](images/sdp-downloads.png)
+### Precisely /<br /> Pitney Bowes ![SDP © Precisely 2020](images/sdp-downloads.png)
 #### Smart Data Platform | [smartdata.pb.com](https://smartdata.pb.com)
 * Created web-based interfaces (both graphical and restful) for the Smart Data Platform (SDP) internal web portal.
 * Created tools to provide useful and accurate views on data resource usage, various product build life-cycles and the quality of results
 * Completed integrations between the internal platform and data retrieval API’s provided by external suppliers, facilitating the implementation of end-to-end automation of the data update cycle.
 
 
-### Maponics /<br /> Pitney Bowes ![Horizon © Pitney Bowes 2016](images/horizon.png)
-#### Horizon (*Visualization* in Software & Data Marketplace) | [horizon.maponics.com](https://pbs-access.pitneybowes.com/#!/home%2Fvisualise?v=10,-122.41942,37.77493)
+### Precisely /<br /> Pitney Bowes /<br /> Maponics ![Horizon © Maponics/Pitney Bowes 2016](images/horizon.png)
+#### Horizon (*Visualization* in Software & Data Marketplace) | [horizon.maponics.com](https://data.precisely.com/visualization/map-explorer/data?zoom=10&latitude=42.37985076434416&longitude=-71.24771118164064&baseMap=Light&activeLayer=pb_NeighborhoodBoundaries_Neighborhoods&layers=pb_NeighborhoodBoundaries_Neighborhoods)
 * Created graphical, interactive application allowing interaction and search on a full spectrum GIS boundary & centroid data product
 * Front-end utilized MVC, mobile and map-based frameworks (AngularJS, Leaflet, MapBox, Material Design)
 * Back-end implemented in Node.js and allowed complete integration with our REST API's, providing location, mapping and analytic services
