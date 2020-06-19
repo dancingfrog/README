@@ -1,21 +1,20 @@
 John Hall
 ======
 
-...codes professionally and personally for the World Wide Web and its associated technologies. His skills range from scripting simple utilities to crafting fully scalable applications to spec, appropriate to a variety of client/server configurations. The toolbox from which he regularly pulls includes Java, Kotlin, NodeJS, R, SQL, SVG, TypeScript, WebGL, audio and video streaming, as well as various cloud-native platforms, including AWS, Docker, Elasticsearch, Redis and Spring.
+...codes professionally and personally for the World Wide Web and its associated technologies. His skills range from scripting simple utilities to crafting fully scalable applications to spec. The toolbox from which he regularly pulls includes Java, Kotlin, NodeJS, R, SQL, SVG, TypeScript, WebGL, audio and video streaming, as well as various cloud-native platforms, including AWS, Docker, Elasticsearch, Redis and Spring. Lately he spends his time in the world of [Sveltr, a hybrid template for visualizing R data](/dev/sveltr.html).
 
 What follows is a brief synopsis of his works [&ast;](#details):
 
 
-### Pitney Bowes ![SDP © Pitney Bowes 2020](images/sdp-downloads.png)
+### Precisely /<br /> Pitney Bowes ![SDP © Precisely 2020](images/sdp-downloads.png)
 #### Smart Data Platform | [smartdata.pb.com](https://smartdata.pb.com)
 * Created web-based interfaces (both graphical and restful) for the Smart Data Platform (SDP) internal web portal.
 * Created tools to provide useful and accurate views on data resource usage, various product build life-cycles and the quality of results
 * Completed integrations between the internal platform and data retrieval API’s provided by external suppliers, facilitating the implementation of end-to-end automation of the data update cycle.
 
 
-### Maponics /<br /> Pitney Bowes ![Horizon © Pitney Bowes 2016](images/horizon.png)
-#### Horizon (*Visualization* in Software & Data Marketplace) | [horizon.maponics.com](https://pbs-access.pitneybowes.com/#!/home%2Fvisualise?v=10,-122.41942,37.77493)
-* Horizon (Original App) | [sandbox.maponics.com](https://sandbox.maponics.com)
+### Precisely /<br /> Pitney Bowes /<br /> Maponics ![Horizon © Maponics/Pitney Bowes 2016](images/horizon.png)
+#### Horizon (*Visualization* in Software & Data Marketplace) | [horizon.maponics.com](https://data.precisely.com/visualization/map-explorer/data?zoom=10&latitude=42.37985076434416&longitude=-71.24771118164064&baseMap=Light&activeLayer=pb_NeighborhoodBoundaries_Neighborhoods&layers=pb_NeighborhoodBoundaries_Neighborhoods)
 * Created graphical, interactive application allowing interaction and search on a full spectrum GIS boundary & centroid data product
 * Front-end utilized MVC, mobile and map-based frameworks (AngularJS, Leaflet, MapBox, Material Design)
 * Back-end implemented in Node.js and allowed complete integration with our REST API's, providing location, mapping and analytic services
@@ -71,5 +70,21 @@ Copyright © PixOasis 2013
 ### JS Demos ![js-demos](images/js-demos.png)
 #### [js-demos](http://www.real-currents.com/js-demos/README.html)
 
+
+<div id="stream" style="display:none; text-align:center">
+<video id="aud1" poster="/js-demos/images/fathers.jpg" preload="auto" muted="true" controls="true">
+<source src="/js-demos/video/fathers.mp4" />
+<source src="/js-demos/video/fathers.ogv" />
+</video>
+</div>
+
+<p id="vstatus"></p>
+
+<p id="license" style="color:#fff; display:none;">
+<img src="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png" alt="Creative Commons Licence"><br />
+<em>These demos by <a href="mailto:john@real-currents.com">John</a> are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/nz/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 License, 2009-2020 </a></em>
+</p>
+
+<script type="text/javascript" id="cvSrc" src="/js-demos/scripts/interact-grid.js"></script>
 
 <span id="details">&ast;</span> *Please contact John for demos and details: [john@real-currents.com](mailto:john@real-currents.com)*
