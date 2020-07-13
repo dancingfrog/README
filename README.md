@@ -1,20 +1,36 @@
+---
+title: John Hall
+author: John
+date: '2020-07-04'
+draft: false
+categories:
+  - Portfolio
+tags:
+  - Resume
+  - Portfolio
+  - Professional
+---
+
 John Hall
 ======
 
-...codes professionally and personally for the World Wide Web and its associated technologies. His skills range from scripting simple utilities to crafting fully scalable applications to spec. The toolbox from which he regularly pulls includes Java, Kotlin, NodeJS, R, SQL, SVG, TypeScript, WebGL, audio and video streaming, as well as various cloud-native platforms, including AWS, Docker, Elasticsearch, Redis and Spring. Lately he spends his time in the world of [Sveltr, a hybrid template for visualizing R data](/dev/sveltr.html).
+...codes professionally and personally for the World Wide Web and its associated technologies. His skills range from scripting simple utilities to crafting fully scalable applications to spec. The toolbox from which he regularly pulls includes Java, Kotlin, NodeJS, R, SQL, SVG, TypeScript, WebGL, audio and video streaming, as well as various cloud-native platforms, including AWS, Docker, Elasticsearch, Redis and Spring. Lately he spends his time in the world of [Sveltr, a hybrid template for visualizing R data](post/visualize-r/).
 
-What follows is a brief synopsis of his works [&ast;](#details):
+What follows is a brief synopsis of his works [&ast;](dev/#details):
 
 
-### Precisely /<br /> Pitney Bowes ![SDP © Precisely 2020](images/sdp-downloads.png)
+### Precisely /<br /> Pitney Bowes ![SDP © Precisely 2020](dev/images/sdp-downloads.png)
 #### Smart Data Platform | [smartdata.pb.com](https://smartdata.pb.com)
 * Created web-based interfaces (both graphical and restful) for the Smart Data Platform (SDP) internal web portal.
 * Created tools to provide useful and accurate views on data resource usage, various product build life-cycles and the quality of results
 * Completed integrations between the internal platform and data retrieval API’s provided by external suppliers, facilitating the implementation of end-to-end automation of the data update cycle.
 
+Copyright © Precisely/Pitney Bowes Software & Data 2020,
 
-### Precisely /<br /> Pitney Bowes /<br /> Maponics ![Horizon © Maponics/Pitney Bowes 2016](images/horizon.png)
-#### Horizon (*Visualization* in Software & Data Marketplace) | [horizon.maponics.com](https://data.precisely.com/visualization/map-explorer/data?zoom=10&latitude=42.37985076434416&longitude=-71.24771118164064&baseMap=Light&activeLayer=pb_NeighborhoodBoundaries_Neighborhoods&layers=pb_NeighborhoodBoundaries_Neighborhoods)
+<br />
+
+### Pitney Bowes /<br /> Maponics ![Horizon © Maponics/Pitney Bowes 2016](dev/images/horizon.png)
+#### Horizon (*Visualization* in Precisely Data Experience) | [horizon.maponics.com](https://data.precisely.com/visualization/map-explorer/data?zoom=10&latitude=42.37985076434416&longitude=-71.24771118164064&baseMap=Light&activeLayer=pb_NeighborhoodBoundaries_Neighborhoods&layers=pb_NeighborhoodBoundaries_Neighborhoods)
 * Created graphical, interactive application allowing interaction and search on a full spectrum GIS boundary & centroid data product
 * Front-end utilized MVC, mobile and map-based frameworks (AngularJS, Leaflet, MapBox, Material Design)
 * Back-end implemented in Node.js and allowed complete integration with our REST API's, providing location, mapping and analytic services
@@ -24,14 +40,18 @@ What follows is a brief synopsis of his works [&ast;](#details):
 * Designed and implemented the component-based Maponics Design (mx-design) template in AngularJS
 * Wrote technical paper advising for the creation of a re-usable [Web GUI template](https://docs.google.com/document/d/1Qa4i7o0Wknp0jDB1J26-sAnvvFaccz4E2esRXB8a1U0/edit?usp=sharing)
 
- ![Maponics Design](images/mx-design.png)
- 
-<br />
+![Maponics Design](dev/images/mx-design.png)
+&nbsp;<br /><br />
+&nbsp;<br /><br />
+&nbsp;<br /><br />
+&nbsp;<br /><br />
+&nbsp;<br /><br />
 
 Copyright © Maponcis 2016, © Pitney Bowes 2017
 
+<br />
 
-### Maponics ![Feedback © Maponics 2015](images/feedback.png)
+### Maponics ![Feedback © Maponics 2015](dev/images/feedback.png)
 #### Feedback App | [feedback.maponics.com](http://feedback.maponics.com/)
 * Created graphical, interactive application allowing existing customers to provide feedback 
 * App managed the flow of user-generated feedback, specific to a given GIS boundary/data product
@@ -40,8 +60,9 @@ Copyright © Maponcis 2016, © Pitney Bowes 2017
 
 Copyright © Maponics 2015
 
+<br />
 
-### Maponics ![Reveal © Maponics 2013](images/maponics.png)
+### Maponics ![Reveal © Maponics 2013](dev/images/maponics.png)
 #### Reveal Demo | [reveal.maponics.com](https://reveal.maponics.com/)
 * Created graphical, interactive demo of various GIS-based data products
 * Front-end utilized MVC, mobile and map-based frameworks/APIs (jQuery Mobile, Giscloud)
@@ -49,8 +70,9 @@ Copyright © Maponics 2015
 
 Copyright © Maponics 2013
 
+<br />
 
-### PixOasis ![PixOasis](images/pixoasis.png)
+### PixOasis ![PixOasis](dev/images/pixoasis.png)
 #### [www.pixoasis.com](https://www.pixoasis.com/)
 * Implemented conversion of site and integrated services to new design
 * Received new design in the form of layered PSD files
@@ -59,22 +81,17 @@ Copyright © Maponics 2013
 
 Copyright © PixOasis 2013
 
+<br />
 
-### Tangible ![Tangible](images/tangible.png)
-#### [tangiblecorp.herokuapp.com](/tangible.html)
-* Converted site theme to AngularJS controllers and templates
-* Integrated UI Bootstrap module with Carousel (slides) and Modals
-* Received design updates in the form of layered PSD files
+### JS Demos ![js-demos](dev/images/js-demos.png)
+#### [js-demos](js-demos/)
 
-
-### JS Demos ![js-demos](images/js-demos.png)
-#### [js-demos](/js-demos/README.html)
-
+<br />
 
 <div id="stream" style="display:none; text-align:center">
-<video id="aud1" poster="/js-demos/images/fathers.jpg" preload="auto" muted="true" controls="true">
-<source src="/js-demos/video/fathers.mp4" />
-<source src="/js-demos/video/fathers.ogv" />
+<video id="aud1" poster="js-demos/images/fathers.jpg" preload="auto" muted="true" controls="true">
+<source src="js-demos/video/fathers.mp4" />
+<source src="js-demos/video/fathers.ogv" />
 </video>
 </div>
 
@@ -85,6 +102,6 @@ Copyright © PixOasis 2013
 <em>These demos by <a href="mailto:john@real-currents.com">John</a> are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/nz/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 License, 2009-2020 </a></em>
 </p>
 
-<script type="text/javascript" id="cvSrc" src="/js-demos/scripts/interact-grid.js"></script>
+<!--script type="text/javascript" id="cvSrc" src="js-demos/scripts/interact-grid.js"></script-->
 
-<span id="details">&ast;</span> *Please contact John for demos and details: [john@real-currents.com](mailto:john@real-currents.com)*
+<span id="details">&ast;</span> *Please contact John for details and demos: [john@real-currents.com](mailto:john@real-currents.com)*
