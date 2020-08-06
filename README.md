@@ -19,7 +19,7 @@ John Hall
 What follows is a brief synopsis of his works [&ast;](dev/#details):
 
 
-### Precisely /<br /> Pitney Bowes ![SDP © Precisely 2020](dev/images/sdp-downloads.png)
+### Precisely /<br /> Pitney Bowes ![SDP © Precisely 2020](images/sdp-downloads.png)
 #### Smart Data Platform | [smartdata.pb.com](https://smartdata.pb.com)
 * Created web-based interfaces (both graphical and restful) for the Smart Data Platform (SDP) internal web portal.
 * Created tools to provide useful and accurate views on data resource usage, various product build life-cycles and the quality of results
@@ -29,7 +29,7 @@ Copyright © Precisely/Pitney Bowes Software & Data 2020,
 
 <br />
 
-### Pitney Bowes /<br /> Maponics ![Horizon © Maponics/Pitney Bowes 2016](dev/images/horizon.png)
+### Pitney Bowes /<br /> Maponics ![Horizon © Maponics/Pitney Bowes 2016](images/horizon.png)
 #### Horizon (*Visualization* in Precisely Data Experience) | [horizon.maponics.com](https://data.precisely.com/visualization/map-explorer/data?zoom=10&latitude=42.37985076434416&longitude=-71.24771118164064&baseMap=Light&activeLayer=pb_NeighborhoodBoundaries_Neighborhoods&layers=pb_NeighborhoodBoundaries_Neighborhoods)
 * Created graphical, interactive application allowing interaction and search on a full spectrum GIS boundary & centroid data product
 * Front-end utilized MVC, mobile and map-based frameworks (AngularJS, Leaflet, MapBox, Material Design)
@@ -40,7 +40,7 @@ Copyright © Precisely/Pitney Bowes Software & Data 2020,
 * Designed and implemented the component-based Maponics Design (mx-design) template in AngularJS
 * Wrote technical paper advising for the creation of a re-usable [Web GUI template](https://docs.google.com/document/d/1Qa4i7o0Wknp0jDB1J26-sAnvvFaccz4E2esRXB8a1U0/edit?usp=sharing)
 
-![Maponics Design](dev/images/mx-design.png)
+![Maponics Design](images/mx-design.png)
 &nbsp;<br /><br />
 &nbsp;<br /><br />
 &nbsp;<br /><br />
@@ -51,7 +51,7 @@ Copyright © Maponcis 2016, © Pitney Bowes 2017
 
 <br />
 
-### Maponics ![Feedback © Maponics 2015](dev/images/feedback.png)
+### Maponics ![Feedback © Maponics 2015](images/feedback.png)
 #### Feedback App | [feedback.maponics.com](http://feedback.maponics.com/)
 * Created graphical, interactive application allowing existing customers to provide feedback 
 * App managed the flow of user-generated feedback, specific to a given GIS boundary/data product
@@ -62,7 +62,7 @@ Copyright © Maponics 2015
 
 <br />
 
-### Maponics ![Reveal © Maponics 2013](dev/images/maponics.png)
+### Maponics ![Reveal © Maponics 2013](images/maponics.png)
 #### Reveal Demo | [reveal.maponics.com](https://reveal.maponics.com/)
 * Created graphical, interactive demo of various GIS-based data products
 * Front-end utilized MVC, mobile and map-based frameworks/APIs (jQuery Mobile, Giscloud)
@@ -72,7 +72,7 @@ Copyright © Maponics 2013
 
 <br />
 
-### PixOasis ![PixOasis](dev/images/pixoasis.png)
+### PixOasis ![PixOasis](images/pixoasis.png)
 #### [www.pixoasis.com](https://www.pixoasis.com/)
 * Implemented conversion of site and integrated services to new design
 * Received new design in the form of layered PSD files
@@ -83,7 +83,7 @@ Copyright © PixOasis 2013
 
 <br />
 
-### JS Demos ![js-demos](dev/images/js-demos.png)
+### JS Demos ![js-demos](images/js-demos.png)
 #### [js-demos](js-demos/)
 
 <br />
