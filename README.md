@@ -1,16 +1,3 @@
----
-title: John Hall
-author: John
-date: '2020-07-04'
-draft: false
-categories:
-  - Portfolio
-tags:
-  - Resume
-  - Portfolio
-  - Professional
----
-
 John Hall
 ======
 
