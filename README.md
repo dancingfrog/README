@@ -15,6 +15,7 @@ John Hall
 ======
 
 ...codes professionally and personally for the World Wide Web and its associated technologies. His skills range from scripting simple utilities to crafting fully scalable applications to spec. The toolbox from which he regularly pulls includes JavaScript, Kotlin, NodeJS, R, SQL, SVG, TypeScript, WebGL, audio and video streaming, as well as various cloud-native platforms, including AWS, Docker, Elasticsearch, Redis and Spring. Lately he spends his time in the world of [SveltR, a hybrid template for visualizing R data](post/visualize-r/).
+Lately, he focuses on different ways to process and prepare data with the R programming language, while using the Svelte reactive UI framework to present interactive insights into the informative implications of that data. [Return to the homepage to learn more and read the latest posts on these topics](/).
 
 What follows is a brief synopsis of his works [&ast;](dev/#details):
 
@@ -53,7 +54,7 @@ Copyright © Maponcis 2016, © Pitney Bowes 2017
 
 ### Maponics ![Feedback © Maponics 2015](dev/images/feedback.png)
 #### Feedback App | [feedback.maponics.com](http://feedback.maponics.com/)
-* Created graphical, interactive application allowing existing customers to provide feedback 
+* Created graphical, interactive application allowing existing customers to provide feedback
 * App managed the flow of user-generated feedback, specific to a given GIS boundary/data product
 * Front-end utilized MVC, mobile and map-based frameworks (AngularJS, Leaflet, MapBox)
 * Back-end implemented in Node.js to access PostgreSQL database
