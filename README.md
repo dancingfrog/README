@@ -3,6 +3,10 @@ title: John Hall
 author: John
 date: '2020-07-04'
 draft: false
+always_allow_html: true
+output:
+  html_document:
+    keep_md: yes
 categories:
   - Portfolio
 tags:
