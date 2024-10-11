@@ -36,11 +36,12 @@ topics](/).
 - Strong analytical and reasoning skills
 - Strong attention to detail and accuracy
 
-### What follows is a brief synopsis of his works[\*](#details):
+#### What follows is a brief synopsis of his works[\*](#details):
 
-### Precisely /<br /> Pitney Bowes ![SDP © Precisely 2020](images/sdp-downloads.png)
+## Precisely /<br /> Pitney Bowes ![SDP © Precisely 2020](images/sdp-downloads.png)
 
-#### Smart Data Platform \| [smartdata.precisely.com](https://smartdata.precisely.com)
+### Smart Data Platform
+[smartdata.precisely.com](https://smartdata.precisely.com)
 
 - Created web-based interfaces (both graphical and restful) for the
   Smart Data Platform (SDP) internal web portal.
@@ -54,9 +55,10 @@ Copyright © Precisely/Pitney Bowes Software & Data 2020,
 
 <br />
 
-### Pitney Bowes /<br /> Maponics ![Horizon © Maponics/Pitney Bowes 2016](images/horizon.png)
+## Pitney Bowes /<br /> Maponics ![Horizon © Maponics/Pitney Bowes 2016](images/horizon.png)
 
-#### Horizon (*Visualization* in Precisely Data Experience) \| [horizon.maponics.com](https://data.precisely.com/visualization/map-explorer/data?zoom=10&latitude=42.37985076434416&longitude=-71.24771118164064&baseMap=Light&activeLayer=pb_NeighborhoodBoundaries_Neighborhoods&layers=pb_NeighborhoodBoundaries_Neighborhoods)
+### Horizon (*Visualization* in Precisely Data Experience)
+[horizon.maponics.com](https://data.precisely.com/visualization/map-explorer/data?zoom=10&latitude=42.37985076434416&longitude=-71.24771118164064&baseMap=Light&activeLayer=pb_NeighborhoodBoundaries_Neighborhoods&layers=pb_NeighborhoodBoundaries_Neighborhoods)
 
 - Created graphical, interactive application allowing interaction and
   search on a full spectrum GIS boundary & centroid data product
@@ -65,7 +67,8 @@ Copyright © Precisely/Pitney Bowes Software & Data 2020,
 - Back-end implemented in Node.js and allowed complete integration with
   our REST API’s, providing location, mapping and analytic services
 
-#### MX Design (Horizon Template) \| [maponics-design](libs/maponics-design/mx-index.html)
+### MX Design (Horizon Template)
+[maponics-design](libs/maponics-design/mx-index.html)
 
 - Designed and implemented the component-based Maponics Design
   (mx-design) template in AngularJS
@@ -80,9 +83,10 @@ Copyright © Maponcis 2016, © Pitney Bowes 2017
 
 <br />
 
-### Maponics ![Feedback © Maponics 2015](images/feedback.png)
+## Maponics ![Feedback © Maponics 2015](images/feedback.png)
 
-#### Feedback App \| [feedback.maponics.com](http://feedback.maponics.com/)
+### Feedback App
+[feedback.maponics.com](http://feedback.maponics.com/)
 
 - Created graphical, interactive application allowing existing customers
   to provide feedback
@@ -96,9 +100,10 @@ Copyright © Maponics 2015
 
 <br />
 
-### Maponics ![Reveal © Maponics 2013](images/maponics.png)
+## Maponics ![Reveal © Maponics 2013](images/maponics.png)
 
-#### Reveal Demo \| [reveal.maponics.com](https://reveal.maponics.com/)
+### Reveal Demo
+[reveal.maponics.com](https://reveal.maponics.com/)
 
 - Created graphical, interactive demo of various GIS-based data products
 - Front-end utilized MVC, mobile and map-based frameworks/APIs (jQuery
@@ -111,9 +116,9 @@ Copyright © Maponics 2013
 
 <br />
 
-### PixOasis ![PixOasis](images/pixoasis.png)
+## PixOasis ![PixOasis](images/pixoasis.png)
 
-#### [www.pixoasis.com](https://www.pixoasis.com/)
+### [www.pixoasis.com](https://www.pixoasis.com/)
 
 - Implemented conversion of site and integrated services to new design
 - Received new design in the form of layered PSD files
@@ -126,9 +131,9 @@ Copyright © PixOasis 2013
 
 <br />
 
-### JS Demos ![js-demos](images/js-demos.png)
+## JS Demos ![js-demos](images/js-demos.png)
 
-#### [js-demos](js-demos/)
+### [js-demos](js-demos/)
 
 <br />
 
@@ -152,5 +157,8 @@ Commons Attribution-ShareAlike 3.0 License, 2009-2020 </a></em>
 </p>
 <!--script type="text/javascript" id="cvSrc" src="js-demos/scripts/interact-grid.js"></script-->
 
-<span id="details">\*</span> *Please contact John for details and demos:
-<john@real-currents.com>*
+<br />
+
+<span id="details">*</span>
+_Please contact John for details and demos_:
+<john@real-currents.com>
