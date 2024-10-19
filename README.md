@@ -1,4 +1,11 @@
-# John Hall
+---
+title: John Hall
+author: John Hall
+format:
+  gfm:
+    variant: +yaml_metadata_block
+---
+
 
 …codes professionally and personally for the World Wide Web and its
 associated technologies. His skills range from scripting simple
@@ -10,7 +17,7 @@ Redis and Spring.
 
 Lately, he focuses on different ways to process and prepare data.
 [Return to the homepage to learn more and read the latest posts on these
-topics](/).
+topics](../..).
 
 ## Professional skills/attributes:
 
@@ -41,6 +48,7 @@ topics](/).
 ## Precisely /<br /> Pitney Bowes ![SDP © Precisely 2020](images/sdp-downloads.png)
 
 ### Smart Data Platform
+
 [smartdata.precisely.com](https://smartdata.precisely.com)
 
 - Created web-based interfaces (both graphical and restful) for the
@@ -58,6 +66,7 @@ Copyright © Precisely/Pitney Bowes Software & Data 2020,
 ## Pitney Bowes /<br /> Maponics ![Horizon © Maponics/Pitney Bowes 2016](images/horizon.png)
 
 ### Horizon (*Visualization* in Precisely Data Experience)
+
 [horizon.maponics.com](https://data.precisely.com/visualization/map-explorer/data?zoom=10&latitude=42.37985076434416&longitude=-71.24771118164064&baseMap=Light&activeLayer=pb_NeighborhoodBoundaries_Neighborhoods&layers=pb_NeighborhoodBoundaries_Neighborhoods)
 
 - Created graphical, interactive application allowing interaction and
@@ -68,6 +77,7 @@ Copyright © Precisely/Pitney Bowes Software & Data 2020,
   our REST API’s, providing location, mapping and analytic services
 
 ### MX Design (Horizon Template)
+
 [maponics-design](libs/maponics-design/mx-index.html)
 
 - Designed and implemented the component-based Maponics Design
@@ -86,6 +96,7 @@ Copyright © Maponcis 2016, © Pitney Bowes 2017
 ## Maponics ![Feedback © Maponics 2015](images/feedback.png)
 
 ### Feedback App
+
 [feedback.maponics.com](http://feedback.maponics.com/)
 
 - Created graphical, interactive application allowing existing customers
@@ -103,6 +114,7 @@ Copyright © Maponics 2015
 ## Maponics ![Reveal © Maponics 2013](images/maponics.png)
 
 ### Reveal Demo
+
 [reveal.maponics.com](https://reveal.maponics.com/)
 
 - Created graphical, interactive demo of various GIS-based data products
@@ -153,12 +165,13 @@ Copyright © PixOasis 2013
 <em>These demos by <a href="mailto:john@real-currents.com">John</a> are
 licensed under the
 <a href="http://creativecommons.org/licenses/by-sa/3.0/nz/deed.en_GB">Creative
-Commons Attribution-ShareAlike 3.0 License, 2009-2020 </a></em>
+Commons Attribution-ShareAlike 3.0 License, 2009-2024 </a></em>
 </p>
 <!--script type="text/javascript" id="cvSrc" src="js-demos/scripts/interact-grid.js"></script-->
 
 <br />
 
-<span id="details">*</span>
-_Please contact John for details and demos_:
-<john@real-currents.com>
+<p>
+<span id="details">\*</span> *Please contact John for details and
+demos*: <john@real-currents.com>
+</p>
