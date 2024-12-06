@@ -43,7 +43,7 @@ topics](../..).
 - Strong analytical and reasoning skills
 - Strong attention to detail and accuracy
 
-#### What follows is a brief synopsis of his works:[\*](#license-details)
+#### What follows is a brief synopsis of his works:[\*](#details)
 
 ## Precisely /<br /> Pitney Bowes ![SDP © Precisely 2020](images/sdp-downloads.png)
 
@@ -159,13 +159,6 @@ Copyright © PixOasis 2013
 </div>
 
 <p id="vstatus">
-</p>
-<p id="license-details" style="color:#fff; display:none;">
-<img src="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png" alt="Creative Commons Licence"><br />
-<em>These demos by <a href="mailto:john@real-currents.com">John</a> are
-licensed under the
-<a href="http://creativecommons.org/licenses/by-sa/3.0/nz/deed.en_GB">Creative
-Commons Attribution-ShareAlike 3.0 License, 2009-2024 </a></em>
 </p>
 
 <br />
