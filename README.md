@@ -152,17 +152,13 @@ Copyright © PixOasis 2013
 <div id="stream" style="display:none; text-align:center">
 
 <video id="aud1" poster="images/fathers.jpg" preload="auto" muted="true" controls="true">
-
 <source src="video/fathers.mp4" />
-
 <source src="video/fathers.ogv" />
-
 </video>
 
 </div>
 
 <p id="vstatus">
-
 </p>
 
 <br />
@@ -172,5 +168,4 @@ Copyright © PixOasis 2013
 <span id="contact-details">&ast;</span> _Please contact John for details and demos_: [john@real-currents.com](mailto:john@real-currents.com)
 </p>
 -->
-
 <!--script type="text/javascript" id="cvSrc" src="js-demos/scripts/interact-grid.js"></script-->
