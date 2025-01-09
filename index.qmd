@@ -114,7 +114,7 @@ Copyright © PixOasis 2013
 
 ## JS Demos ![js-demos](images/js-demos.png)
 
-### [js-demos](js-demos/)
+### [js-demos](js-demos/index.html)
 
 <br />
 
