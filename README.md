@@ -15,7 +15,7 @@ SQL, SVG, TypeScript, WebGL, audio and video streaming, as well as
 various cloud-native platforms, including AWS, Docker, Elasticsearch,
 Redis and Spring.
 
-Lately, he focuses on different ways to process and prepare data.
+Lately, he focuses on different ways to process and prepare data.<br />
 [Return to the homepage to learn more and read the latest posts on these
 topics](../..).
 
@@ -45,6 +45,49 @@ topics](../..).
 
 #### What follows is a brief synopsis of his works:[\*](#details)
 
+## Center On Rural Innovation /<br /> Rural Innovation Strategies, Inc.
+
+The foresight and vision of CORI resonates deeply with me and I was
+especially attracted to the opportunity to build applications, tools and
+visualizations that could reshape our narratives about where ingenuity
+and innovation can happen. At CORI, I contributed to work that was aimed
+at creating a bridge between the tech economies of rural regions and
+those of major urban centers, where the vast majority of tech innovation
+and growth has occurred over the last three decades. My role enabled me
+to utilize the web as a platform for delivering high-quality, highly
+interactive data experiences by guiding my team in the selection and
+mastery of new software tools and frameworks, including but not limited
+to:
+
+AWS • Docker • PostgreSQL/PostGIS • Python • React • R • Shiny •
+TypeScript • Vite
+
+![2025](images/rural-broadband-map.png)
+
+### Rural Broadband Map
+
+[rural-broadband-map.ruralinnovation.us](https://rural-broadband-map.ruralinnovation.us/?geoid=060379800191000,060379800191001,060379800191002,060379800191003,060379800191004,060379800191005,060379800191006,060379800191007,060379800191008,060379800191009,060379800191010,060379800191011,060379800191012,060379800191013,060379800191014,060379800191015,060379800191016,060379800191017,060379800191018,060379800191019,060379800191020,060379800191021,060379800191022)
+
+The foresight and vision of CORI resonates deeply with me and I was
+especially attracted to the opportunity to build applications, tools and
+visualizations that could reshape our narratives about where ingenuity
+and innovation can happen. At CORI, I contributed to work that was aimed
+at creating a bridge between the tech economies of rural regions and
+those of major urban centers, where the vast majority of tech innovation
+and growth has occurred over the last three decades. My role enabled me
+to utilize the web as a platform for delivering high-quality, highly
+interactive data experiences by guiding my team in the selection and
+mastery of new software tools and frameworks, including but not limited
+to:
+
+AWS • Docker • PostgreSQL/PostGIS • Python • React • R • Shiny •
+TypeScript • Vite
+
+Copyright © Center on Rural Innovation / Rural Innovation Strategies,
+Inc. 2025
+
+<br />
+
 ## Precisely /<br /> Pitney Bowes ![SDP © Precisely 2020](images/sdp-downloads.png)
 
 ### Smart Data Platform
@@ -59,7 +102,7 @@ topics](../..).
   retrieval API’s provided by external suppliers, facilitating the
   implementation of end-to-end automation of the data update cycle.
 
-Copyright © Precisely/Pitney Bowes Software & Data 2020,
+Copyright © Precisely/Pitney Bowes Software & Data 2020
 
 <br />
 
@@ -152,13 +195,17 @@ Copyright © PixOasis 2013
 <div id="stream" style="display:none; text-align:center">
 
 <video id="aud1" poster="images/fathers.jpg" preload="auto" muted="true" controls="true">
+
 <source src="video/fathers.mp4" />
+
 <source src="video/fathers.ogv" />
+
 </video>
 
 </div>
 
 <p id="vstatus">
+
 </p>
 
 <br />
@@ -168,4 +215,5 @@ Copyright © PixOasis 2013
 <span id="contact-details">&ast;</span> _Please contact John for details and demos_: [john@real-currents.com](mailto:john@real-currents.com)
 </p>
 -->
+
 <!--script type="text/javascript" id="cvSrc" src="js-demos/scripts/interact-grid.js"></script-->
