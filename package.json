@@ -6,6 +6,6 @@
   "license": "MIT",
   "private": "true",
   "scripts": {
-    "render": "quarto render index.qmd --to gfm --output README.md --output-dir ."
+    "render": "quarto render --output-dir . && quarto render index.qmd --to gfm --output README.md --output-dir ."
   }
 }
