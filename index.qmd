@@ -41,7 +41,7 @@ AWS • Docker • PostgreSQL/PostGIS • Python • React • R • Shiny • T
 
 ![2025](images/rural-broadband-map.png)
 
-### Rural Broadband Map
+### Rural Broadband Service Map
 [rural-broadband-map.ruralinnovation.us](https://rural-broadband-map.ruralinnovation.us/?geoid=060379800191000,060379800191001,060379800191002,060379800191003,060379800191004,060379800191005,060379800191006,060379800191007,060379800191008,060379800191009,060379800191010,060379800191011,060379800191012,060379800191013,060379800191014,060379800191015,060379800191016,060379800191017,060379800191018,060379800191019,060379800191020,060379800191021,060379800191022)
 
 * Designed and implemented the [CORI Data API](https://cori-data-api.ruralinnovation.us/){.external target="_blank"} backend (including GraphQL, Rest, and S3 resources)

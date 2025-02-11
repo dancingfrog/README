@@ -64,7 +64,7 @@ TypeScript • Vite
 
 ![2025](images/rural-broadband-map.png)
 
-### Rural Broadband Map
+### Rural Broadband Service Map
 
 [rural-broadband-map.ruralinnovation.us](https://rural-broadband-map.ruralinnovation.us/?geoid=060379800191000,060379800191001,060379800191002,060379800191003,060379800191004,060379800191005,060379800191006,060379800191007,060379800191008,060379800191009,060379800191010,060379800191011,060379800191012,060379800191013,060379800191014,060379800191015,060379800191016,060379800191017,060379800191018,060379800191019,060379800191020,060379800191021,060379800191022)
 
@@ -193,17 +193,13 @@ Copyright © PixOasis 2013
 <div id="stream" style="display:none; text-align:center">
 
 <video id="aud1" poster="images/fathers.jpg" preload="auto" muted="true" controls="true">
-
 <source src="video/fathers.mp4" />
-
 <source src="video/fathers.ogv" />
-
 </video>
 
 </div>
 
 <p id="vstatus">
-
 </p>
 
 <br />
@@ -213,5 +209,4 @@ Copyright © PixOasis 2013
 <span id="contact-details">&ast;</span> _Please contact John for details and demos_: [john@real-currents.com](mailto:john@real-currents.com)
 </p>
 -->
-
 <!--script type="text/javascript" id="cvSrc" src="js-demos/scripts/interact-grid.js"></script-->
