@@ -43,7 +43,7 @@ topics](../..).
 - Strong analytical and reasoning skills
 - Strong attention to detail and accuracy
 
-#### What follows is a brief synopsis of his works:[\*](#details)
+#### What follows is a brief synopsis of his work:[\*](#details)
 
 ## Center On Rural Innovation /<br /> Rural Innovation Strategies, Inc.
 
@@ -68,20 +68,18 @@ TypeScript • Vite
 
 [rural-broadband-map.ruralinnovation.us](https://rural-broadband-map.ruralinnovation.us/?geoid=060379800191000,060379800191001,060379800191002,060379800191003,060379800191004,060379800191005,060379800191006,060379800191007,060379800191008,060379800191009,060379800191010,060379800191011,060379800191012,060379800191013,060379800191014,060379800191015,060379800191016,060379800191017,060379800191018,060379800191019,060379800191020,060379800191021,060379800191022)
 
-The foresight and vision of CORI resonates deeply with me and I was
-especially attracted to the opportunity to build applications, tools and
-visualizations that could reshape our narratives about where ingenuity
-and innovation can happen. At CORI, I contributed to work that was aimed
-at creating a bridge between the tech economies of rural regions and
-those of major urban centers, where the vast majority of tech innovation
-and growth has occurred over the last three decades. My role enabled me
-to utilize the web as a platform for delivering high-quality, highly
-interactive data experiences by guiding my team in the selection and
-mastery of new software tools and frameworks, including but not limited
-to:
-
-AWS • Docker • PostgreSQL/PostGIS • Python • React • R • Shiny •
-TypeScript • Vite
+- Designed and implemented the
+  <a href="https://cori-data-api.ruralinnovation.us/" class="external"
+  target="_blank">CORI Data API</a> backend (including GraphQL, Rest,
+  and S3 resources)
+  - Provides an assortment of broadband metrics and demographic data at
+    multiple geographic levels (county, tract, block, etc.)
+  - Built with AWS Lambda and RDS (PostgreSQL)
+  - Continuously deploys from code commits using AWS CDK
+- Built map-based frontend that incorporates a mix of backend data
+  sources, including CORI Data API and Mapbox (styles and tile sets)
+- Administrated periodic data updates to both the backend(s) and
+  frontend
 
 Copyright © Center on Rural Innovation / Rural Innovation Strategies,
 Inc. 2025
